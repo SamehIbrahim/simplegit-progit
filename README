@@ -5,3 +5,4 @@ This library calls git commands and returns the output.
 
 Author : Scott Chacon
 FeatureA 1
+FeatureA 2
